@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{98A4A2DD-5D4B-488F-8504-9244F3D13F84}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Jello/ClientApp/app/components/fetchdata/fetchdata.component.ts">
+    <Files>
+      <File FileName="Jello/ClientApp/app/components/fetchdata/fetchdata.component.ts" Line="13" Column="37" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Jello PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <AuthorInfo Name="Alexander Torrijos" Email="artorrijos@gmail.com" Copyright="" Company="" Trademark="" />
+  <MultiItemStartupConfigurations />
+</Properties>
